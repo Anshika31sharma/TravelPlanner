@@ -6,7 +6,7 @@ Turn natural language prompts like:
 
 > `3 days in Goa under 10000 with beaches, cafes, nightlife`
 
-into a full itinerary: day-wise activities, travel cost estimates (flight/train/bus), and trip history stored in **localStorage**. No sign-up, no API keys—everything runs in your browser.
+into a full itinerary: day-wise activities, travel cost estimates (flight/train/bus), and trip history stored in **localStorage**. No sign-up, no API keys everything runs in your browser.
 
 ## What it does
 
