@@ -20,7 +20,8 @@ export function DayTabs({ days, selectedDay, onSelect }: DayTabsProps) {
         animate={{ opacity: 1 }}
         className="rounded-2xl sm:rounded-3xl border border-dashed border-slate-700/60 bg-slate-900/40 p-3 sm:p-4 text-[10px] sm:text-xs text-slate-500"
       >
-        No days yet. Generate a trip from the landing page to see your itinerary here.
+        No days yet. Generate a trip from the landing page to see your itinerary
+        here.
       </motion.div>
     );
   }
